@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl when dealing with the undef value. The script attempts to compare undef with itself using the eq operator, which always returns false. The solution shows the correct way to check for undef using defined().
